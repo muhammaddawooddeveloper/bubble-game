@@ -86,11 +86,6 @@ justify-content: center;
 .bubble:hover{
     background-color: greenyellow;
 }
-
-#price{
-    /* display: none; */
-}
-
 .hide{
     display: none;
 }
